@@ -13,8 +13,4 @@ A simple web page where you can dump whatever you want to say.
     <span property="dct:title">JBYoshi</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">TextArea</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="US" about="https://jbyoshi.github.io">
-  United States</span>.
 </p>
